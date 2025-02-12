@@ -9,7 +9,10 @@
     .img{
         margin-top: 30rem;
     }
-
+    #login{
+        width: 50px;
+        height: 39px;
+    }
     .box{
         margin-top: 18rem;
         text-align: center;
@@ -43,8 +46,8 @@
 
     .logo-img {
         width: 100%;
-        max-width: 550px;
-        height: 100%;
+        max-width: 500px;
+        height: 500;
         margin-top: 25%;
         justify-content: left;
     }
@@ -97,6 +100,11 @@
             max-width: 400px;
             height: auto; /* Mantendo a proporção da imagem */
             margin-top: 0%; /* Ajustando o espaço superior */
+        }
+
+        #logo{
+            width: 400px;
+            height: 400px;
         }
     
         footer {
